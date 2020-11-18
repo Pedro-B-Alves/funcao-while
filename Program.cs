@@ -6,7 +6,7 @@ namespace funcao_while
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Aprendendo WHILE");
+                Console.WriteLine("Aprendendo WHILE");
 
             // Console.WriteLine("Digite um número");
             // decimal numero = decimal.Parse(Console.ReadLine()); //10
@@ -22,28 +22,28 @@ namespace funcao_while
             //     i = i + 0.01m;// incremento
             // };//fim do while
 
-            // string resposta = "";
-            // do{
-            //     Console.WriteLine("Digite seu email");
-            //     resposta = Console.ReadLine();
+                // string resposta = "";
+                // do{
+                //     Console.WriteLine("Digite seu email");
+                //     resposta = Console.ReadLine();
 
-            // }while(resposta != "pedro22carro@gmail.com");
-            
-            // Console.WriteLine("E-Mail confirmado");
+                // }while(resposta != "pedro22carro@gmail.com");
+                
+                // Console.WriteLine("E-Mail confirmado");
 
             // Console.WriteLine("Digite a idade do ator");
             // int idade = int.Parse(Console.ReadLine());
 
-            // while(idade != 47)
-            // {
-            //     Console.WriteLine("Errou!");
-            //     Console.WriteLine("Digite a idade do ator novamente");
-            //     idade = int.Parse(Console.ReadLine());
+                // while(idade != 47)
+                // {
+                //     Console.WriteLine("Errou!");
+                //     Console.WriteLine("Digite a idade do ator novamente");
+                //     idade = int.Parse(Console.ReadLine());
 
-            // }
-            //     Console.WriteLine("Acertou miseravi");
-            
-            // int idade;
+                // }
+                //     Console.WriteLine("Acertou miseravi");
+                
+                // int idade;
             // do{
             //     Console.WriteLine("Digite a idade do aotr");
             //     idade = int.Parse(Console.ReadLine());
