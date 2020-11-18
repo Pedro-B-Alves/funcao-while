@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\bin\Debug\netcoreapp3.1\funcao-while.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\funcao-while\obj\Debug\netcoreapp3.1\funcao-while.genruntimeconfig.cache
